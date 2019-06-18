@@ -1,0 +1,13 @@
+#testing installations
+//date created : 17 June 2019
+//created by Chilukuri Sri Harsha
+//date last modified :17 June 2019
+//modified by Chilukuri Sri Harsha
+
+open terminal and navigate to this folder where prject related items present
+
+run these
+
+1. 		python test.py
+
+2. 		python test2.py

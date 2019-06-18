@@ -1,0 +1,26 @@
+#required installations
+//date created : 17 June 2019
+//created by Chilukuri Sri Harsha
+//date last modified :17 June 2019
+//modified by Chilukuri Sri Harsha
+
+
+Make sure that you have a active internet connection at time of installing.
+It is one of the reason of faiure...
+
+UBUNTU
+->run these commands in the same order
+		//(comenting is for simple explanation)
+
+1	sudo apt install python
+		//installing python
+
+2	sudo apt install pip
+		//it is used to install required pakages later
+
+3	pip install numpy
+		//pakage 1 for this project
+
+4	pip install opencv-contrib-python
+		//pakage 2 for this project
+
