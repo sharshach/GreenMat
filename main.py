@@ -5,9 +5,9 @@
 # //modified by Chilukuri Sri  Harsha
 # //
 # different values
-background='background.jpeg'
-foreground='main.png'
-final='created.png'
+background='images/background.jpeg'
+foreground='images/main.png'
+final='images/created.png'
 rc='green'#replacing color
 hue=60
 deviation=20 
